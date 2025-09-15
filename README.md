@@ -1,2 +1,0 @@
-# Mcqueen-Motors
-projeto
